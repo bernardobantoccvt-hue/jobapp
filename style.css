@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.form-container, .container {
+    background: #f0f7ff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 50%;
+    margin-top: 20px;
+    border: 2px solid blue;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid blue;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #e6f0ff;
+}
